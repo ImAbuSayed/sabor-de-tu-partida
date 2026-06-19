@@ -12,7 +12,7 @@
 |-------|---------|
 | **Title** | Sabor de tu partida |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabor-de-tu-partida/) |
 | **License** | [View License](./LICENSE.md) |
 | **Get License** | [License this song: Sabor de tu partida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabor-de-tu-partida/) |
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> El humo en el aire y la noche no termina
-> Tú tienes el fuego que mi mente domina
-> El sabor de tu partida me dejó la obsesión
-> Ven y cura este frío que hay en mi corazón
+> Sabor de tu partida en mi piel se quedó
+> Esa noche de fuego que el tiempo borró
+> Tu silueta en la luna me tiene sin fe
+> Y el eco de tu nombre ya no sé qué fue
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
