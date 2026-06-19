@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabor-de-tu-partida/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Sabor de tu partida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabor-de-tu-partida/) |
+| **Get License** | [Music Rights & Licensing for Sabor de tu partida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabor-de-tu-partida/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -115,8 +115,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `42a7e42ec23d65f8c178f6adcd758922169f653ab7e4f8c792f154076eda21a4` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `9fa2d36ce5b8d6e4718658f8d5f2063ec4f5cbd71d7be555b1cd411e4253c0e5` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
